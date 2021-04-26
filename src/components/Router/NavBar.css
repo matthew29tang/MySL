@@ -1,0 +1,17 @@
+#Title {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.links {
+    color: white;
+    text-decoration: none;
+    left: auto;
+    right: 0px;
+}
+
+#about{
+    position: absolute;
+    padding-right: 10px;
+}

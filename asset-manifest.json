@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MySL/static/css/main.fbd09caa.chunk.css",
+    "main.js": "/MySL/static/js/main.d887ea06.chunk.js",
+    "main.js.map": "/MySL/static/js/main.d887ea06.chunk.js.map",
+    "runtime~main.js": "/MySL/static/js/runtime~main.fff91dcd.js",
+    "runtime~main.js.map": "/MySL/static/js/runtime~main.fff91dcd.js.map",
+    "static/js/2.c48402f5.chunk.js": "/MySL/static/js/2.c48402f5.chunk.js",
+    "static/js/2.c48402f5.chunk.js.map": "/MySL/static/js/2.c48402f5.chunk.js.map",
+    "index.html": "/MySL/index.html",
+    "precache-manifest.7dc97a5ac5cf4b680475caa33e2ce293.js": "/MySL/precache-manifest.7dc97a5ac5cf4b680475caa33e2ce293.js",
+    "service-worker.js": "/MySL/service-worker.js",
+    "static/css/main.fbd09caa.chunk.css.map": "/MySL/static/css/main.fbd09caa.chunk.css.map",
+    "static/media/dropzone.svg": "/MySL/static/media/dropzone.3f7e59cc.svg",
+    "static/media/is.png": "/MySL/static/media/is.bcc693c2.png",
+    "static/media/my.png": "/MySL/static/media/my.dc80d2f2.png",
+    "static/media/progress.svg": "/MySL/static/media/progress.bb0534c8.svg"
+  }
+}
